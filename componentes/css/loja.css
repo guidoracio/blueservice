@@ -1,0 +1,14 @@
+form .mb-3 {
+  position: relative;
+}
+label.is-invalid {
+  width: auto;
+  font-size: 11px;;
+  color: #dc3545;
+  position: absolute;
+  top: 7px;
+  right: 0px;
+}
+.btn {
+  text-transform: uppercase;
+}

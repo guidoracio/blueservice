@@ -1,0 +1,13 @@
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/jquery.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/bootstrap.bundle.min.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/bootstrap-maxlength.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/bootstrap-select.min.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/bootstrap-select-pt_BR.min.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/validate.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/validate-methods.min.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/sweetalert2.min.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/mask.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/maskMoney.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/datatables.min.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/funcoes.js<?php echo $versao; ?>"></script>
+<script type="text/javascript" src="<?php echo $componentes; ?>/js/painel.js<?php echo $versao; ?>"></script>

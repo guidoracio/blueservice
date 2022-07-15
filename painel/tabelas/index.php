@@ -1,0 +1,1 @@
+<script>location.href='<?php echo "https://".$_SERVER['SERVER_NAME']; ?>'</script>
