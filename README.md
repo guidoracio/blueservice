@@ -1,14 +1,5 @@
 # Desafio Blue Service
 
-Escopo:
-1 - Lista de categorias \n
-2 - Lista de produtos \n
-3 - Busca de produtos \n
-4 - Detalhes do produto \n
-5 - Carrinho \n
-6 - Criação do pedido \n
-7 - Lista de pedidos
-
 # REQUISITOS
 1 - Servidor Apache
 2 - PHP 7.4
